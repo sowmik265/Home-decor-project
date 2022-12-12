@@ -1,1 +1,1 @@
-# Home-decor-project
+# Home decoration website Landing page
